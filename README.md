@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Raafi Hilmi.
 
-A dedicated student immersing myself in the realm of Android app development. Eager to learn and innovate, I'm on a mission to master the art of crafting user-friendly and impactful apps. Join me as I embark on this journey to transform innovative ideas into functional and user-friendly apps that shape the future of technology.
+I'm diving deep into the exciting world of Android app development! 📱 As a passionate student, I'm on a mission to soak up all the knowledge I can and put it into action to create apps that are not just cool, but also super user-friendly and impactful.
 
 - 🌱 I’m currently learning about mobile application
 - ⚡ Currently study at Bina Sarana Informatika University
