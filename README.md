@@ -26,4 +26,4 @@ A dedicated student immersing myself in the realm of Android app development. Ea
 ### Reach me on
 
 <a href="https://www.linkedin.com/in/raafihilmi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=LinkedIn&logoColor=white"/></a> &nbsp;
-<a href="mailto:raafihilmi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:raafihilmi90@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
