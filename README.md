@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Raafi Hilmi.
-
+My previous GitHub account was [@raafihilmi](https://github.com/raafihilmi), and this is my new GitHub.
 I'm diving deep into the exciting world of Android app development! 📱 As a passionate student, I'm on a mission to soak up all the knowledge I can and put it into action to create apps that are not just cool, but also super user-friendly and impactful.
 
 - 🌱 I’m currently learning about mobile application
